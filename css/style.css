@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+     padding: 0;
+    }
+    .main{
+        background-color:#032b6b;
+          color: white;    
+
+    }
+    .nav{
+        display: flex;
+        
+
+
+    }
+    .ol{
+        display: flex;
+    }
+    .ol>li{
+        margin: 10px;
+        list-style: none;
+        justify-content: space-between;
+
+    }.one{
+        display: flex;
+        justify-content: space-between;
+        background-color: black;
+
+    }
+    .ok{
+        display: flex;
+        color: white;
+        background-color: black;
+
+
+    }
+    .ok li{
+        margin: 10px;
+        list-style: none;
+        justify-content: space-between;
+    }
+    .btn{
+        align-items: center;
+        
+    }
+    .click{
+        background-color: transparent;
+        
+        color: white;
+        border: none;
+
+    }
+    .click:hover{
+        color: yellow;
+    }
+    
+    .click1{
+        background-color: transparent;
+        
+        color: white;
+        border: none;
+
+    }
+    .click1:hover{
+        color: yellow;
+    }
+    .per{
+        background-color: transparent;
+        
+        color: white;
+        border: none;
+
+    }
+    .per:hover{
+        color: yellow;
+    }
+    .adder{
+        color: white;
+        background-color: transparent;
+        margin: 5px;
+    }
+    .right{
+        display: flex;
+
+
+    }
+    .allen{
+        background-color: transparent;
+        font-size: 30px;
+        
+        color: black;
+        border: none;
+
+
+    }
+    .solly{
+        background-color: transparent;
+        font-size: 30px;
+        
+        color: black;
+        border: none;
+    }
+    .carousel-inner{
+        height: 100vh;
+    }
+
+    /* */
+   
+    .staffs{
+        padding: 5px;
+        display: flex;
+        /* flex-wrap: wrap; */
+        margin: 10px 45px;
+
+        
+      }
+      .staff{
+          padding: 10px;
+          text-align: center;
+          width: 250px;
+          
+      }
+      
+      .staff>img{
+          width: 200px;
+          height: 200px;
+          border-radius: 100%;
+          
+          
+      } 
+      .child{
+        display: flex;
+        background-color: rgb(251, 197, 149);
+
+      }
+      .child1{
+        font-size: 20px;
+        margin-right: 15px;
+        text-align:left;
+        padding: 10px 10px;
+      }
+      .child2{
+        width: 30%;
+        height: 30vh;
+        margin: 20px;
+        
+      }
+      .child2>img{
+        width: 50%;
+        /* height: 100vh; */
+      }
+      .child3{
+        background: transparent;
+      }
