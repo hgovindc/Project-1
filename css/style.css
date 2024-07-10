@@ -10,8 +10,17 @@
     .nav{
         display: flex;
         
+        
 
 
+    }
+    .head{
+    
+        width: 50%;
+    }
+    .head img{
+        
+        width:10px ;
     }
     .ol{
         display: flex;
@@ -151,4 +160,16 @@
       }
       .child3{
         background: transparent;
+      }
+      .logo{
+        text-align: center;
+      }
+      .ul{
+        display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        list-style: none;
+      }
+      .ig{
+        display: flex;
       }
