@@ -82,7 +82,7 @@
 
 /*section two background */
 .background{
-    background-color: aquamarine;
+    background-color: yellow;
     background-image: url(/images/2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -196,6 +196,7 @@
 }
 /* anchor tag button design end */
 .image1{
+    background-color: yellow;
 background-image: url(/images/IMG-20240717-WA0013.jpg);
 background-size: cover;
 background-repeat: no-repeat;
@@ -215,6 +216,7 @@ color: aqua;
 
 }
 .image2{
+    background-color: yellow;
 background-image: url(/images/IMG-20240717-WA0022.jpg);
 background-size: cover;
 background-repeat: no-repeat;
@@ -240,6 +242,7 @@ margin-top:30px;
     width: 100%;
 }
 .image3{
+    background-color: yellow;
 background-image: url(/images/IMG-20240717-WA0007.jpg);
 background-size: cover;
 background-repeat: no-repeat;
@@ -261,6 +264,7 @@ backdrop-filter: brightness(100%);
     width: 100%;
 }
 .image4{
+    background-color: yellow;
 background-image: url(/images/IMG-20240717-WA0016.jpg);
 background-size: cover;
 background-repeat: no-repeat;
@@ -279,6 +283,7 @@ margin-top:30px;
     color: white;
 }
 .image5{
+    background-color: yellow;
 background-image: url(/images/IMG-20240717-WA0018.jpg);
 background-size: cover;
 background-repeat: no-repeat;
@@ -298,6 +303,7 @@ margin-top:30px;
     font-style: italic;
 }
 .image6{
+    background-color: yellow;
 background-image: url(/images/IMG-20240717-WA0020.jpg);
 background-size: cover;
 background-repeat: no-repeat;
@@ -317,6 +323,7 @@ margin-top:30px;
     width: 30%;
 }
 .image7{
+    background-color: yellow;
  background-image: url(/images/IMG-20240717-WA0017.jpg);
  background-size: cover;
  background-repeat: no-repeat;
@@ -465,6 +472,7 @@ video{
 
 /* background image 2 manchester pic */
 .manchester{
+    background-color: yellow;
     background-image: url(/images/IMG-20240717-WA0009.jpg);
     background-size: cover;
     background-repeat: no-repeat;
