@@ -682,7 +682,7 @@ object-fit: cover;
 }
 .son>img{
     flex-shrink: 0;
-    height: 300px;
+    height: 200px;
     width: calc(100% / 5);
     object-fit: cover;
     margin: 5px;
@@ -694,7 +694,7 @@ object-fit: cover;
 }
 .dau>img{
     flex-shrink: 0;
-    height: 300px;
+    height: 200px;
     width: calc(100% / 5);
     object-fit: cover;
     margin: 5px;
